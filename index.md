@@ -1,11 +1,5 @@
-## Welcome to Sally‘s world
 
-You can use the [editor on GitHub](https://github.com/Sally-ing/Sally-happyness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-# welcome to Sally' world
+# welcome to Sally's world
 
 Sally is a reader, who likes reading ,writing and studying. She also likes sharing meaningful story and humorous things with friends.
 
